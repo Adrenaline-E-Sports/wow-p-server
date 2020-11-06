@@ -1,0 +1,25 @@
+titel horde
+#
+.titles add 76
+.titles add 21
+.titles add 23
+.titles add 24
+.titles add 47
+.titles add 19
+.titles add 26
+.titles add 16
+.titles add 28
+.titles add 127
+.titles add 22
+.titles add 25
+.titles add 15
+.titles add 18
+.titles add 17
+.titles add 20
+.titles add 27
+
+.titles add 150
+.titles add 151
+.titles add 152
+.titles add 153
+.titles add 154

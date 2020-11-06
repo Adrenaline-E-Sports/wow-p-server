@@ -1,0 +1,86 @@
+titel all
+#
+all
+#
+.titles add 78
+.titles add 143
+.titles add 84
+.titles add 83
+.titles add 125
+.titles add 81
+#
+PVP
+#
+.titles add 82
+.titles add 72
+.titles add 80
+.titles add 45
+.titles add 157
+.titles add 43
+.titles add 128
+.titles add 167
+.titles add 42
+.titles add 62
+.titles add 169
+.titles add 44
+.titles add 163
+.titles add 71
+.titles add 177
+#
+Dungeon 
+#
+.titles add 181
+.titles add 171
+.titles add 165
+.titles add 174
+.titles add 159
+.titles add 129
+.titles add 53
+.titles add 161
+.titles add 122
+.titles add 160
+.titles add 158
+.titles add 180
+.titles add 183
+.titles add 182
+.titles add 170
+.titles add 64
+.titles add 166
+.titles add 141
+.titles add 175
+.titles add 173
+.titles add 120
+.titles add 140
+.titles add 139
+.titles add 178
+.titles add 172
+.titles add 164
+.titles add 121
+.titles add 142
+.titles add 179
+#
+Ruf
+#
+.titles add 130
+.titles add 131
+.titles add 176
+.titles add 144
+.titles add 156
+.titles add 79
+.titles add 77
+.titles add 132
+.titles add 145
+.titles add 63
+#
+World
+#
+.titles add 133
+.titles add 74
+.titles add 124
+.titles add 135
+.titles add 137
+.titles add 134
+.titles add 155
+.titles add 138
+.titles add 168
+.titles add 46
