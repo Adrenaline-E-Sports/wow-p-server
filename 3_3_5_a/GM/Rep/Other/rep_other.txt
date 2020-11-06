@@ -1,0 +1,50 @@
+#
+Classic
+#
+.modify rep 529 43000
+.modify rep 87 43000
+.modify rep 910 43000
+.modify rep 609 43000
+.modify rep 909 43000
+.modify rep 92 43000
+.modify rep 749 43000
+.modify rep 93 43000
+.modify rep 349 43000
+.modify rep 809 43000
+.modify rep 59 43000
+.modify rep 576 43000
+.modify rep 270 43000
+.modify rep 21 43000
+.modify rep 577 43000
+.modify rep 1118 43000
+.modify rep 470 43000
+#
+BC
+#
+.modify rep 1012 43000
+.modify rep 942 43000
+.modify rep 989 43000
+.modify rep 1011 43000
+.modify rep 1015 43000
+.modify rep 1038 43000
+.modify rep 1031 43000
+.modify rep 1077 43000
+.modify rep 970 43000
+.modify rep 932 43000
+.modify rep 933 43000
+.modify rep 990 43000
+.modify rep 934 43000
+.modify rep 935 43000
+.modify rep 967 43000
+#
+Wotlk
+#
+.modify rep 1106 43000
+.modify rep 1104 43000
+.modify rep 1090 43000
+.modify rep 1098 43000
+.modify rep 1156 43000
+.modify rep 1073 43000
+.modify rep 1105 43000
+.modify rep 1119 43000
+.modify rep 1091 43000

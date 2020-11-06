@@ -1,0 +1,13 @@
+Master
+#
+.cheat explore 1
+.character level 85
+.learn all default 
+.learn all gm
+.learn all lang
+.learn all my class
+.learn all my spells
+.learn all my talents
+.learn all crafts
+.maxskill
+.modify money 2140000000
