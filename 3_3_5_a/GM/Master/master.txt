@@ -11,3 +11,6 @@ Master
 .learn all crafts
 .maxskill
 .modify money 2140000000
+
+account create NAME PASSWORD
+account set gm NAME 3 -1
