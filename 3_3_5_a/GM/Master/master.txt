@@ -1,7 +1,7 @@
 Master
 #
 .cheat explore 1
-.character level 85
+.character level 84
 .learn all default 
 .learn all gm
 .learn all lang
@@ -14,3 +14,39 @@ Master
 
 account create NAME PASSWORD
 account set gm NAME 3 -1
+
+#
+Reiten + fliegen lernen
+#Horde
+.tele orgrimmar
+.additem 46880
+(Quest abgeben)
+.quest add 11498
+.tele shadowmoon
+(Quest abgeben)
+#Allianz
+.go zone 84.12 64.93 12
+.additem 46875
+(Quest abgeben)
+.quest add 11497
+.go zone 37.40 56.28 3520
+(Quest abgeben)
+
+#
+Berufe
+#
+.learn all recipes alchemy
+.learn all recipes tailoring
+.learn all recipes Blacksmithing
+.learn all recipes Enchanting
+.learn all recipes Engineering
+.learn all recipes Herbalism
+.learn all recipes Jewelcrafting
+.learn all recipes Leatherworking
+.learn all recipes Mining
+.learn all recipes Skinning
+.learn all recipes Cooking
+.learn all recipes First Aid
+.learn all recipes Fishing
+.learn all recipes Inscription
+
