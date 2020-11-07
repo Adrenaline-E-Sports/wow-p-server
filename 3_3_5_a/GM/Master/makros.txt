@@ -1,0 +1,324 @@
+```Allianz Rep 1
+.modify rep 69 43000
+.modify rep 930 43000
+.modify rep 54 43000
+.modify rep 47 43000
+.modify rep 890 43000
+.modify rep 730 43000
+.modify rep 72 43000
+.modify rep 509 43000
+.modify rep 946 43000
+.modify rep 980 43000
+.modify rep 1037 43000
+```
+```Allianz Rep 2
+.modify rep 1068 43000
+.modify rep 1094 43000
+.modify rep 1050 43000
+.modify rep 589 43000
+```
+```Horde Rep 1
+.modify rep 922 43000
+.modify rep 530 43000
+.modify rep 76 43000
+.modify rep 911 43000
+.modify rep 81 43000
+.modify rep 68 43000
+.modify rep 729 43000
+.modify rep 510 43000
+.modify rep 889 43000
+.modify rep 941 43000
+.modify rep 947 43000
+```
+```Horde Rep 2
+.modify rep 1067 43000
+.modify rep 1124 43000
+.modify rep 1064 43000
+.modify rep 1085 43000
+.modify rep 1052 43000
+```
+```CL Rep 1
+.modify rep 529 43000
+.modify rep 87 43000
+.modify rep 910 43000
+.modify rep 609 43000
+.modify rep 909 43000
+.modify rep 92 43000
+.modify rep 749 43000
+.modify rep 93 43000
+.modify rep 349 43000
+.modify rep 809 43000
+.modify rep 59 43000
+```
+```Cl Rep 2
+.modify rep 576 43000
+.modify rep 270 43000
+.modify rep 21 43000
+.modify rep 577 43000
+.modify rep 1118 43000
+.modify rep 470 43000
+```
+```BC Rep 1
+.modify rep 1012 43000
+.modify rep 942 43000
+.modify rep 989 43000
+.modify rep 1011 43000
+.modify rep 1015 43000
+.modify rep 1038 43000
+.modify rep 1031 43000
+.modify rep 1077 43000
+.modify rep 970 43000
+.modify rep 932 43000
+.modify rep 933 43000
+```
+```BC Rep 2
+.modify rep 990 43000
+.modify rep 934 43000
+.modify rep 935 43000
+.modify rep 967 43000
+```
+```Wotlk Rep
+.modify rep 1106 43000
+.modify rep 1104 43000
+.modify rep 1090 43000
+.modify rep 1098 43000
+.modify rep 1156 43000
+.modify rep 1073 43000
+.modify rep 1105 43000
+.modify rep 1119 43000
+.modify rep 1091 43000
+```
+```Berufe 1
+.learn all recipes alchemy
+.learn all recipes tailoring
+.learn all recipes Blacksmithing
+.learn all recipes Enchanting
+.learn all recipes Engineering
+.learn all recipes Herbalism
+.learn all recipes Jewelcrafting
+.learn all recipes Leatherworking
+```
+```Berufe 2
+.learn all recipes Mining
+.learn all recipes Skinning
+.learn all recipes Cooking
+.learn all recipes First Aid
+.learn all recipes Fishing
+.learn all recipes Inscription
+```
+```Master
+.cheat explore 1
+.character level 84
+.learn all default 
+.learn all gm
+.learn all lang
+.learn all my class
+.learn all my spells
+.learn all my talents
+.learn all crafts
+.maxskill
+.modify money 2140000000
+```
+``` Taschen Bank
+.additem 51809 11
+```
+``` Titel all
+.titles add 78
+.titles add 143
+.titles add 84
+.titles add 83
+.titles add 125
+.titles add 81
+```
+``` Titel Allianz 1
+.titles add 75
+.titles add 126
+.titles add 11
+.titles add 2
+.titles add 14
+.titles add 48
+.titles add 6
+.titles add 8
+.titles add 9
+.titles add 7
+.titles add 10
+.titles add 12
+.titles add 4
+.titles add 1
+.titles add 3
+.titles add 5
+```
+``` Titel Allianz 2
+.titles add 147
+.titles add 146
+.titles add 113
+.titles add 148
+.titles add 149
+.titles add 75
+```
+``` Titel Dungeon 1
+.titles add 181
+.titles add 171
+.titles add 165
+.titles add 174
+.titles add 159
+.titles add 129
+.titles add 53
+.titles add 161
+.titles add 122
+.titles add 160
+.titles add 158
+.titles add 180
+.titles add 183
+.titles add 182
+.titles add 170
+.titles add 64
+```
+``` Titel Dungeon 2
+.titles add 166
+.titles add 141
+.titles add 175
+.titles add 173
+.titles add 120
+.titles add 140
+.titles add 139
+.titles add 178
+.titles add 172
+.titles add 164
+.titles add 121
+.titles add 142
+.titles add 179
+```
+``` Titel Horde 1
+.titles add 76
+.titles add 21
+.titles add 23
+.titles add 24
+.titles add 47
+.titles add 19
+.titles add 26
+.titles add 16
+.titles add 28
+.titles add 127
+.titles add 22
+.titles add 25
+.titles add 15
+.titles add 18
+.titles add 17
+.titles add 20
+.titles add 27
+```
+``` Titel Horde 2
+.titles add 150
+.titles add 151
+.titles add 152
+.titles add 153
+.titles add 154
+.titles add 76
+```
+``` Titel PvP
+.titles add 82
+.titles add 72
+.titles add 80
+.titles add 45
+.titles add 157
+.titles add 43
+.titles add 128
+.titles add 167
+.titles add 42
+.titles add 62
+.titles add 169
+.titles add 44
+.titles add 163
+.titles add 71
+.titles add 177
+```
+``` Titel Ruf
+.titles add 130
+.titles add 131
+.titles add 176
+.titles add 144
+.titles add 156
+.titles add 79
+.titles add 77
+.titles add 132
+.titles add 145
+.titles add 63
+```
+``` Titel World
+.titles add 133
+.titles add 74
+.titles add 124
+.titles add 135
+.titles add 137
+.titles add 134
+.titles add 155
+.titles add 138
+.titles add 168
+.titles add 46
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
