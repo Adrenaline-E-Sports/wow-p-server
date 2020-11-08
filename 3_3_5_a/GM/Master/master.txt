@@ -17,20 +17,7 @@ account set gm NAME 3 -1
 
 #
 Reiten + fliegen lernen
-#Horde
-.tele orgrimmar
-.additem 46880
-(Quest abgeben)
-.quest add 11498
-.tele shadowmoon
-(Quest abgeben)
-#Allianz
-.go zone 84.12 64.93 12
-.additem 46875
-(Quest abgeben)
-.quest add 11497
-.go zone 37.40 56.28 3520
-(Quest abgeben)
+.learn 34091
 
 #
 Berufe
