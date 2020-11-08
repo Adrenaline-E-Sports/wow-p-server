@@ -27,13 +27,29 @@ Berufe
 .learn all recipes Blacksmithing
 .learn all recipes Enchanting
 .learn all recipes Engineering
-.learn all recipes Herbalism
 .learn all recipes Jewelcrafting
 .learn all recipes Leatherworking
-.learn all recipes Mining
-.learn all recipes Skinning
 .learn all recipes Cooking
 .learn all recipes First Aid
-.learn all recipes Fishing
 .learn all recipes Inscription
+.learn 50300
+.learn 8387
+.learn 55503
+.setskill 182 450
+.learn 50310
+.learn 8388
+.learn 53040
+.setskill 186 450
+.learn 50305
+.learn 53666
+.setskill 393 450
+.learn 51294
+.learn 43308
+.learn 7738
+.setskill 356 450
+.learn 33388
+.learn 34091
+.learn 54197
+.learn 34090
+.learn 33391
 
