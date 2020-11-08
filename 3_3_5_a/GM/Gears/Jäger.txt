@@ -1,0 +1,20 @@
+Gear Jäger
+#
+Best
+#
+.additem 51286
+.additem 50633
+.additem 51288
+.additem 47545
+.additem 51289
+.additem 50655
+.additem 51285
+.additem 50688
+.additem 50645
+.additem 54577
+.additem 50618
+.additem 50402
+.additem 54590
+.additem 50363
+.additem 50735
+.additem 50733
