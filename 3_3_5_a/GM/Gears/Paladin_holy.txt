@@ -1,0 +1,30 @@
+Paladin Holy
+#
+Best
+#
+.additem 51272
+.additem 50724
+.additem 51273
+.additem 54583
+.additem 50680
+.additem 54582
+.additem 50650
+.additem 54587
+.additem 50694
+.additem 54586
+.additem 50664
+.additem 46051
+.additem 48724
+.additem 40705
+.additem 50616
+.additem 46017
+.additem 54585
+#
+Sockel
+#
+Kopf:
+.additem 41401
+.additem 49110
+
+alle anderen:
+.additem 40128 19
