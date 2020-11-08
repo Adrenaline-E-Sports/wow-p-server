@@ -1,0 +1,19 @@
+Gear Druide
+#
+Best
+#
+.additem 51296
+.additem 50633
+.additem 51299
+.additem 47545
+.additem 51298
+.additem 54580
+.additem 50675
+.additem 50707
+.additem 51297
+.additem 50607
+.additem 50618
+.additem 50402
+.additem 54590
+.additem 50363
+.additem 50735
